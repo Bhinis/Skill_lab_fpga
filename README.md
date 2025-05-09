@@ -1,4 +1,3 @@
-# Skill_lab_fpga
 # RVCE FPGA Workshop Repo (Summary)
 Welcome to the repository for the RVCE-Workshop on FPGA,UART AND RISC-V. This repo contains all the source codes and the details of the workshop conducted by [Kunal Ghosh](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/).
 ### Team Members: Aviral, Bhini
