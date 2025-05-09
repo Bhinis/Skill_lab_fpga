@@ -32,11 +32,11 @@ module top (
 
   // Initialize message
   initial begin
-    message[0] = "A";
-    message[1] = "L";
+    message[0] = "B";
+    message[1] = "H";
     message[2] = "I";
-    message[3] = "C";
-    message[4] = "E";
+    message[3] = "N";
+    message[4] = "I";
     message[5] = "\n";       // Newline
     message[6] = 8'h00;      // Null terminator
   end
