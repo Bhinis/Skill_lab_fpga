@@ -85,13 +85,13 @@ https://github.com/user-attachments/assets/3390f781-607c-4522-95af-d2eded0188c9
 ***
 ###  UART Transmission with logic analyzer
 The Saleae Logic 2 software with a logic analyzer connected to an FPGA-based project (Mini VDSquadron Mini) to monitor UART (serial) communication.
-# 🛰️ Mini VDSquadron UART Transmission Test
+# Mini VDSquadron UART Transmission Test
 
 This repository contains a basic UART transmission implementation on the **Mini VDSquadron Mini FPGA** board. The project demonstrates how to send repeated UART characters (`0x4D` or `'M'`) from the FPGA and observe them using the **Saleae Logic Analyzer**.
 
 ---
 
-## 🔧 Project Overview
+## Project Overview
 
 - **Board**: Mini VDSquadron Mini (FPGA)
 - **Interface**: UART (Async Serial)
